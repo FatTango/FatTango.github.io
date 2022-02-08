@@ -47,13 +47,13 @@ paginate = 5
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = "fattango"
+  creator = "Mike Hopkins"
   site = ""
 
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Fat Tango"
+    title = "Mike Hopkins"
     subtitle = ""
     owner = ""
     keywords = ""
@@ -67,7 +67,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Fat Tango"
+      logoText = "Mike Hopkins"
       logoHomeLink = "/"
 
     [languages.en.menu]
