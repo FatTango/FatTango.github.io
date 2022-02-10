@@ -1,6 +1,6 @@
 ---
 title: "Personal pick #1"
-date: 2022-01-07
+date: 2022-01-05
 draft: false
 showfullcontent: true
 ---
