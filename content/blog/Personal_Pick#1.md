@@ -1,7 +1,7 @@
 ---
 title: "Personal pick #1"
 date: 2022-01-05
-draft: false
+draft: true
 showfullcontent: true
 ---
 
@@ -9,4 +9,4 @@ showfullcontent: true
 
 It would be a good place to start with one of my favourite albums of all time. Ghosts is a fascinating adventure into the thoughts and feelings of Trent Reznor in the most abstract and interesting way.
 
-Starting with Ghosts 1.
+Starting with Ghosts 1. 

@@ -16,6 +16,6 @@ showFullContent: true
 
 06: Sons of Kemet - Your Queen is a Reptile (2018) For fans of. A Nu Jazz LP full of rhythm and energy with some serious political undertones led by Saxophonist-in-chief Shabaka Hutchings.
 
-07: The War On Drugs - I Don't Live Here Anymore (2021) -  For fans of. Soft indie rock record from the Philly six-piece. A dreamy introspective LP that serves well for a background play but allows space for a deeper experience. 
+07: The War On Drugs - I Don't Live Here Anymore (2021) -  For fans of. Soft indie rock record from the Philly six-piece. A dreamy introspective LP that serves well for a background play but allows space for a deeper experience.
 
 Personal highlight - BADBADNOTGOOD. I haven't been able to stop listening to this album. Front to back full of seriously good tunes. Can't fault it in anyway.
