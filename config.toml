@@ -54,10 +54,10 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "Mike Hopkins"
-    subtitle = ""
+    subtitle = "Electroacoustic composer"
     owner = ""
     keywords = ""
-    copyright = ""
+    copyright = "Mike Hopkins"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"

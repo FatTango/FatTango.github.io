@@ -1,14 +1,8 @@
 +++
 title = "About"
 +++
-
-Mixing and Mastering
 Electroacoustic Composer
 
-![Mike](/Mixing_2.png)
-
-
-
-
+Mixer and Masterer
 
 ![Mike](/photo_1.png)
