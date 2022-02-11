@@ -18,4 +18,4 @@ showFullContent: true
 
 07: The War On Drugs - I Don't Live Here Anymore (2021) -  For fans of Kurt Vile, Destroyer and Kevin Morby. Soft indie rock record from the Philly six-piece. A dreamy introspective LP that serves well for a background play but allows space for a deeper experience.
 
-Personal highlight - BADBADNOTGOOD. I haven't been able to stop listening to this album. Front to back full of seriously good tunes. Can't fault it in anyway.
+Special mentions: Ryuchi Sakamoto - async (2017) A really beautiful ambient electronica album that I'd recommend to anyone who is remotely a fan of the ambient genre.
