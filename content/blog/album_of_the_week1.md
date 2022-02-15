@@ -1,5 +1,5 @@
 ---
-title: "Albums of the week"
+title: "Albums of the week #1"
 date: 2022-01-07
 draft: false
 showFullContent: true
