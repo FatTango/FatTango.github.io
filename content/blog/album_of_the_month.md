@@ -1,6 +1,0 @@
----
-title: "Album of the Month"
-date: 2022-02-02
-draft: true
-showFullContent: true
----

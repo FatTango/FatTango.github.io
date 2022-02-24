@@ -1,28 +1,20 @@
 ---
-title: "Albums of the week #2"
-date: 2022-01-14
-draft: true
+title: "Albums of the week #3"
+date: 2022-01-21
+draft: false
 showFullContent: true
 ---
-08: Kamaal Williams - Wu Hen
 
+15: Joy Orbison - Slipping
 
-09: Emma Jane Thackray - Yellow
+16: Her's - Songs Of Her's
 
+17: The Alchemist - Cycles
 
-10: Henge - Attention Earth!
+18: Ryuichi Sakamoto - async
 
+19: alva noto - HYbr:ID I
 
-11: Greentea Peng - Man Made
+20: Kanye West - The Life Of Pablo
 
-
-12: Chihei Hatakeyama - Saunter
-
-
-13: Bearcubs - Early Hours
-
-
-14: Daniel Avery - Together in Static
-
-
-Special mentions: Overmono - Everything U Need (EP)
+21: Fumio Miyashita - Silent Echo Sounds Of The Universe
